@@ -1,0 +1,11 @@
+# Material file for rock_2.obj
+
+newmtl rock_2_0
+	Ns 225
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.5 0.5 0.5
+	Ka 1.0 1.0 1.0
+	map_Kd rock_2.png
+

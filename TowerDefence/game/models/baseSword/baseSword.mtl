@@ -1,0 +1,11 @@
+# Material file for baseSword.obj
+
+newmtl Sword_mat_map
+	Ns 20
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 1.0 1.0 1.0
+	Ka 0.050876 0.050876 0.050876
+	map_Kd Texture_MAp_sword.png
+
